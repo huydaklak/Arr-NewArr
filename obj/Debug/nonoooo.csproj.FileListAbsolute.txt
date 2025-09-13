@@ -1,0 +1,8 @@
+D:\CSHARP242_4\nonoooo\bin\Debug\nonoooo.exe.config
+D:\CSHARP242_4\nonoooo\bin\Debug\nonoooo.exe
+D:\CSHARP242_4\nonoooo\bin\Debug\nonoooo.pdb
+D:\CSHARP242_4\nonoooo\obj\Debug\nonoooo.csproj.AssemblyReference.cache
+D:\CSHARP242_4\nonoooo\obj\Debug\nonoooo.csproj.CoreCompileInputs.cache
+D:\CSHARP242_4\nonoooo\obj\Debug\nonoooo.exe
+D:\CSHARP242_4\nonoooo\obj\Debug\nonoooo.pdb
+D:\CSHARP242_4\nonoooo\obj\Debug\nonoooo.exe.config
