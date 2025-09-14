@@ -1,0 +1,8 @@
+D:\cSharp\Pratice_Arr\bin\Debug\nonoooo.exe.config
+D:\cSharp\Pratice_Arr\bin\Debug\nonoooo.exe
+D:\cSharp\Pratice_Arr\bin\Debug\nonoooo.pdb
+D:\cSharp\Pratice_Arr\obj\Debug\Arr_newArr.csproj.AssemblyReference.cache
+D:\cSharp\Pratice_Arr\obj\Debug\nonoooo.exe.config
+D:\cSharp\Pratice_Arr\obj\Debug\Arr_newArr.csproj.CoreCompileInputs.cache
+D:\cSharp\Pratice_Arr\obj\Debug\nonoooo.exe
+D:\cSharp\Pratice_Arr\obj\Debug\nonoooo.pdb

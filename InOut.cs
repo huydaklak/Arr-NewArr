@@ -2,7 +2,7 @@
 
 namespace nonoooo
 {
-    internal class test
+    internal class InOut
     {
         public void Fvck()
         {
