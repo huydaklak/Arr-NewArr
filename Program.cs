@@ -13,8 +13,17 @@
             //Add_Last_Element_To_Array lele = new Add_Last_Element_To_Array();
             //lele.Exercise();
 
-            Reverse_Array kaka = new Reverse_Array();
-            kaka.Exercise();
+            //Reverse_Array kaka = new Reverse_Array();
+            //kaka.Exercise();
+
+            Test test = new Test();
+            test.Exercise();
+
+            //Add_Element_To_Any_Position_In_The_Array popo = new Add_Element_To_Any_Position_In_The_Array();
+            //popo.Exercise();
+
+            //Max_Arr qeqe = new Max_Arr();
+            //qeqe.Exercise();
         }
     }
 }
